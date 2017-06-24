@@ -5628,8 +5628,6 @@
 
     move-result-object v14
 
-    check-cast v14, Landroid/graphics/drawable/Drawable$ConstantState;
-
     .local v14, "cs":Landroid/graphics/drawable/Drawable$ConstantState;
     goto :goto_1
 
